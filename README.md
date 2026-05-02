@@ -1,6 +1,6 @@
 # Hi there
 
-I'm **Muhammad Zohair Hamid**, a Computer Science student from Faisalabad, Pakistan, passionate about **cybersecurity**, **cloud computing**, and **AI security**.
+I'm **Muhammad Zohair Hamid**, a Computer Science student from Pakistan, passionate about **cybersecurity**, **cloud computing**, and **AI**.
 
 ## 🔭 Currently Working On
 - **NetGuard AI** - Network security analytics and threat detection initiative
