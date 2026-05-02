@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there
 
 I'm **Muhammad Zohair Hamid**, a Computer Science student from Faisalabad, Pakistan, passionate about **cybersecurity**, **cloud computing**, and **AI security**.
 
