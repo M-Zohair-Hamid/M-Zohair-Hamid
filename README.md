@@ -37,9 +37,8 @@ I'm **Muhammad Zohair Hamid**, a Computer Science student, passionate about **cy
 ## 📫 Connect With Me
 - **LinkedIn:** [muhammad-zohair-hamid-16bb12377](https://www.linkedin.com/in/muhammad-zohair-hamid-16bb12377/)
 - **Email:** mzhaq96@gmail.com
-- 
-## ⚡ Fun Fact
-I believe the best way to understand systems is to break them, fix them, and learn from the process. Curiosity + experimentation = growth.
+
+| The best way to understand systems is to break them, fix them, and learn from the process. Curiosity + experimentation = growth.
 
 ---
 
