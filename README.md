@@ -2,19 +2,15 @@
 
 I'm **Muhammad Zohair Hamid**, a Computer Science student, passionate about **cybersecurity**, **cloud computing**, and **AI**.
 
-## 🔭 Currently Working On
-- **NetGuard AI** - Network security analytics and threat detection initiative
-- Building hands-on cybersecurity projects and security automation tools
 
 ## 🌱 Currently Learning
 - Advanced Linux system administration and hardening
-- Cloud security (OCI, AWS fundamentals)
 - Ethical hacking and penetration testing concepts
-- Python scripting for security automation
+- Scripting for security automation
 
 ## 💻 Skills & Technologies
 - **Languages:** Python, Bash, JavaScript
-- **Cloud:** Oracle Cloud Infrastructure (OCI)
+- **Cloud:** Oracle Cloud Infrastructure Foundations (OCI)
 - **Operating Systems:** Linux (Ubuntu 24.04), Windows
 - **Tools:** Git/GitHub, Terminal/CLI, Nano
 - **Cybersecurity:** Network fundamentals, threat analysis, ethical hacking basics
